@@ -22,15 +22,13 @@ The ScreenTime Showdown App is a fun and engaging social app that allows users t
 
 ## Get Started
 
-1. Download and install the ScreenTime Showdown App from the [App Store](https://example-link-to-app-store) or [Google Play Store](https://example-link-to-play-store).
+1. Sign up with your email or connect using your social media account.
 
-2. Sign up with your email or connect using your social media account.
+2. Create or join a social group with your friends, family, or colleagues.
 
-3. Create or join a social group with your friends, family, or colleagues.
+3. Allow the app to access your screen time data to start tracking.
 
-4. Allow the app to access your screen time data to start tracking.
-
-5. Start reducing your screen time and competing with others to have the lowest daily usage.
+4. Start reducing your screen time and competing with others to have the lowest daily usage.
 
 ## Screenshots
 
@@ -39,8 +37,6 @@ The ScreenTime Showdown App is a fun and engaging social app that allows users t
 ![Screenshot 2](screenshots/screenshot2.png)
 
 ## Feedback and Support
-
-We are committed to improving the ScreenTime Showdown App and providing the best user experience possible. If you encounter any issues, have suggestions for new features, or need assistance, please don't hesitate to reach out to our support team at support@screentimeshowdown.com.
 
 We hope you enjoy using the ScreenTime Showdown App and that it helps you foster healthier phone usage habits while having fun with your social group! Let's compete for lower screen time together!
 
