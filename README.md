@@ -20,7 +20,7 @@ The ScreenTime Showdown App is a fun and engaging social app that allows users t
 
 - **Data Privacy:** We prioritize user privacy and ensure that no personal information is shared without explicit consent.
 
-## How to Get Started
+## Get Started
 
 1. Download and install the ScreenTime Showdown App from the [App Store](https://example-link-to-app-store) or [Google Play Store](https://example-link-to-play-store).
 
