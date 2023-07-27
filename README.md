@@ -33,10 +33,10 @@ The ScreenTime Showdown App is a fun and engaging social app that allows users t
 ## Screenshots
 
 <div>
-  <img src="screenshots/Screenshot1.png" alt="Screenshot 1" width="250" />
-  <img src="screenshots/Screenshot2.png" alt="Screenshot 2" width="250" />
-  <img src="screenshots/Screenshot3.png" alt="Screenshot 3" width="250" />
-  <img src="screenshots/Screenshot4.png" alt="Screenshot 4" width="250" />
+  <img src="screenshots/Screenshot1.png" alt="Screenshot 1" width="200" />
+  <img src="screenshots/Screenshot2.png" alt="Screenshot 2" width="200" />
+  <img src="screenshots/Screenshot3.png" alt="Screenshot 3" width="200" />
+  <img src="screenshots/Screenshot4.png" alt="Screenshot 4" width="200" />
 </div>
 
 ## Feedback and Support
