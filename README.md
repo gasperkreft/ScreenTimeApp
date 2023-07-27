@@ -1,7 +1,5 @@
 # ScreenTime Showdown App
 
-![ScreenTime Showdown Logo](logo.png)
-
 ## Overview
 
 The ScreenTime Showdown App is a fun and engaging social app that allows users to track and compare their phone's screen time with other users in their social group. The goal is to encourage healthier phone usage habits and promote a friendly competition among friends to achieve the lowest screen time.
